@@ -107,3 +107,5 @@ GitHub.sublime-settings
 
 # Database images
 jpg/
+jpg_cnn/
+jpg_hog/
